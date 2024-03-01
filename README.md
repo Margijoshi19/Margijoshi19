@@ -8,4 +8,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 🌐 Socials:
+
+- 💻 Tech Stack:
+C C# C++ CSS3 HTML5 JavaScript Java Python PHP Shell Script TypeScript Vercel Google Cloud GithubPages Laravel MUI React SASS TailwindCSS Vue.js WordPress MySQL SQLite Adobe Canva Figma
