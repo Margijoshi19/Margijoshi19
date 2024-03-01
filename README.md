@@ -10,6 +10,8 @@
 - ⚡ Fun fact: ...
 
 - 🌐 Socials:
+- ![image](https://github.com/Margijoshi19/Margijoshi19/assets/160334958/4deb23cc-27e1-4fb7-bc78-07b19b41f319)
+
 
 - 💻 Tech Stack:
 - ![image](https://github.com/Margijoshi19/Margijoshi19/assets/160334958/2707b598-4fde-43fa-9829-0e36e47fe88c)
