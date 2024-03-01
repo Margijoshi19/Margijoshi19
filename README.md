@@ -1,17 +1,21 @@
 💫 About Me:
 ### Hi there 👋
 🔭 I’m currently working on myself
+
 👯 I’m looking to collaborate with the experts in industries
+
 🌱 I’m currently learning & looking for help with : Backend Development
+
 💬 Ask me about : Frontend related tasks
+
 ⚡ Fun fact : We are always learners and are never late to learn any Tech Stack
 
-- 🌐 Socials:
+🌐 Socials:
 
 
-- 💻 Tech Stack:
-- 
-- ![image](https://github.com/Margijoshi19/Margijoshi19/assets/160334958/2707b598-4fde-43fa-9829-0e36e47fe88c)
+💻 Tech Stack:
+
+ ![image](https://github.com/Margijoshi19/Margijoshi19/assets/160334958/2707b598-4fde-43fa-9829-0e36e47fe88c)
 
 📊 GitHub Stats:
 
