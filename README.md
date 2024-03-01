@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 - 🌐 Socials:
--![image](https://github.com/Margijoshi19/Margijoshi19/assets/160334958/5ba17c3b-581e-4517-9fe5-88f235af323c)
+"C:\Users\Margi Joshi\OneDrive\Pictures\Screenshots\Screenshot 2024-03-01 213632.png"
 
 
 
