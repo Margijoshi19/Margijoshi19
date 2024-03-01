@@ -12,4 +12,5 @@
 - 🌐 Socials:
 
 - 💻 Tech Stack:
-C C# C++ CSS3 HTML5 JavaScript Java Python PHP Shell Script TypeScript Vercel Google Cloud GithubPages Laravel MUI React SASS TailwindCSS Vue.js WordPress MySQL SQLite Adobe Canva Figma
+![image](https://github.com/Margijoshi19/Margijoshi19/assets/160334958/929377b6-0274-4c63-a631-07f743c678a3)
+
