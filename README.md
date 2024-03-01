@@ -12,12 +12,7 @@
 - 🌐 Socials:
 
 - 💻 Tech Stack:
-![image](https://github.com/Margijoshi19/Margijoshi19/assets/160334958/929377b6-0274-4c63-a631-07f743c678a3)
+- ![image](https://github.com/Margijoshi19/Margijoshi19/assets/160334958/2707b598-4fde-43fa-9829-0e36e47fe88c)
 
-This repository contains programming languages, databases, ides, text editors, cloud, and framework logos.
-
-             
-
-About • Databases • Programming Languages • Ides • Text Editors • Frameworks • Cloud • Others • License
 
 	
