@@ -1,5 +1,6 @@
-💫 About Me:1
+<h6>💫### About Me:</h6>
 ### Hi there 👋
+
 🔭 I’m currently working on myself
 
 👯 I’m looking to collaborate with the experts in industries
